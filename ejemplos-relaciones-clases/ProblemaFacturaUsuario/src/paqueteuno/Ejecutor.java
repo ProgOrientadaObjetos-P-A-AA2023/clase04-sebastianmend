@@ -38,6 +38,6 @@ public class Ejecutor {
                 factura.obtenerNumeroTelefono(),
                 factura.obtenerMinutosMes(),
                 factura.obtenerValorMinuto(),
-                factura.obtenerValorFactura());/*
+                factura.obtenerValorFactura());*/
     }
 }

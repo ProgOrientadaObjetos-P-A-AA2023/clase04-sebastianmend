@@ -76,7 +76,7 @@ public class FacturaTelefonica {
                 "Valor por minuto: %.2f\n" +
                 "Valor a cancelar: %.2f\n",
                usuario.obtenerNombre(),
-                obtenerUsuario().obtenerNombre(),
+                // obtenerUsuario().obtenerNombre(),
                 obtenerUsuario().obtenerApellido(),
                 obtenerUsuario().obtenerIdentificacion(),
                 obtenerNumeroTelefono(),
